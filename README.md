@@ -46,4 +46,16 @@ else:
    ans = input()                                                                               
      # if user input n or N then condition is True                                          
 if ans == 'n' or ans == 'N':                                                                  
-    'break'                                                                                 #     after exiting from the while loop                                                         print("\nThanks for sharing time with us...")                                         
+    'break'                                                                                   #after exiting from the while loop                                                                                                             print("\nThanks for sharing time with us...")     
+    OUTPUT:
+    The Rules of Rock paper scissor game will be follows:
+Rock vs paper --> paper wins
+Rock vs scissor --> Rock wins
+paper vs scissor --> scissor wins
+
+Now please enter your choice no.
+
+1.Rock
+2.paper
+3.scissor
+
